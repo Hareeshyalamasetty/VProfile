@@ -127,9 +127,9 @@
                 <layout>default</layout>
                 <snapshots>
                 <enabled>false</enabled>
-    </snapshots>
-  </repository>
-</repositories>
+               </snapshots>
+           </repository>
+           </repositories>
     <build>
         <plugins>
             <plugin>
